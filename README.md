@@ -1,10 +1,10 @@
 ### 👀 À propos de moi
 
-💻 Je suis passionné d'**informatique** depuis plusieurs années 
+💻 Je suis passionné d'**informatique** depuis plusieurs années  
 🎥 J'aime aller au **cinéma**  
 🕹 J'ai travaillé sur un petit projet de construction d'une **borne d'arcade** sur mon temps libre  
-🏋️‍♀️ Aime faire du sport
-👨‍💻 Participant de plusieurs Devoxx4Kids étant plus jeunes, avec mon frêre
+🏋️‍♀️ Aime faire du sport  
+👨‍💻 Participant de plusieurs Devoxx4Kids étant plus jeunes, avec mon frêre  
 
 ### ✅ Mes compétences
 * **Débutant** en HTML, CSS, Java
