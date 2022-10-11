@@ -1,6 +1,7 @@
 ### 👀 À propos de moi
 
-![Photo Ilian](photo.jpg)
+<img src="photo.jpg" alt="Photo Ilian" width="40%" height="40%"/>
+
 
 💻 Je suis passionné d'**informatique** depuis plusieurs années  
 🎥 J'aime aller au **cinéma**  
