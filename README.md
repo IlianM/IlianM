@@ -1,5 +1,7 @@
 ### 👀 À propos de moi
 
+![Photo Ilian](photo.jpg)
+
 💻 Je suis passionné d'**informatique** depuis plusieurs années  
 🎥 J'aime aller au **cinéma**  
 🕹 J'ai travaillé sur un petit projet de construction d'une **borne d'arcade** sur mon temps libre  
