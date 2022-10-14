@@ -17,3 +17,4 @@
 ### 📚 Mes Études
 * Lycée Polyvalent Jules Verne de Cergy-Le-Haut 2019-2022
 * BTS SIO SLAM à l'ESIEE-IT 2022-2024
+* Baccalauréat Générale avec mention
